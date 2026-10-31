@@ -6,7 +6,7 @@
 | **PRN** | 202501110126|
 | **Class / Batch** | SY B2 CSE (AIML) |
 | **Subject** | Problem Solving Using OOP (C++) |
-| **Repository** | https://github.com/saundaryakhade/OOP_Lab_ |
+| Repository | [https://github.com/saundaryakhade/OOP_Lab_](https://github.com/saundaryakhade/OOP_Lab_) |
 
 This repository contains the C++ programs for the practical assignments, along with how to compile them, sample input/output and a short summary of the concepts used.
 
